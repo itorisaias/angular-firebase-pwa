@@ -1,0 +1,5 @@
+<ul>
+  <li class="text" *ngFor="let cliente of clientes$ | async">
+    {{ cliente | json }}
+  </li>
+</ul>

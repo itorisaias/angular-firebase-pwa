@@ -1,0 +1,11 @@
+{
+  "name": "Angular 5.0 PWA with Firebase",
+  "short_name": "pwa-firebase",
+  "description": "A project using pwa with firebase",
+  "start_url": "index.html",
+  "theme_color": "#f48c5b",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "icons": []
+}
